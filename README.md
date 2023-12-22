@@ -10,6 +10,7 @@ The webpage is designed as specified in Assignment 4, ensuring an intuitive and 
 
 #### Features
 
-User Registration: Users can register for the Secret Santa game through a simple form.
-Random Assignment: Utilizes JavaScript to assign participants randomly using data stored in cookies.
-Cookie-Based Logic: Stores and retrieves participant information using cookies to facilitate the assignment process.
+- User Registration: Users can register for the Secret Santa game through a simple form.
+
+- Random Assignment: Utilizes JavaScript to assign participants randomly using data stored in cookies.
+- Cookie-Based Logic: Stores and retrieves participant information using cookies to facilitate the assignment process.
